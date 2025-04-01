@@ -24,4 +24,4 @@
 <p>Apache technologies are excellent tools for real-time data analysis and processing.2 scripts (kafka_multistream.py spark_multistreams.py*) and are written to demostrate the function<p>
 <p>These scripts should be run upon the above data streaming is running. It handles data generated from multiple sources, filter data and export them into CSV files</p>
 <br>
-<p><em>*sample code to initiate the PySpark script ~/Apache/spark/spark-3.5.3-bin-hadoop3/bin/spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.1.2 spark_multistreams.py</em></p>
+<p><em>*sample script to initiate the PySpark script ~/Apache/spark/spark-3.5.3-bin-hadoop3/bin/spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.1.2 spark_multistreams.py</em></p>
